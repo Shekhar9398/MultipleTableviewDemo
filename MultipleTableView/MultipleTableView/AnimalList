@@ -1,0 +1,17 @@
+//
+//  File.swift
+//  MultipleTableView
+//
+//  Created by Shraddha Manwar on 04/07/22.
+//
+
+import Foundation
+import UIKit
+
+struct animalsList {
+    
+    var wild: String
+    var  pets: String
+    var  aqua:String
+    
+}
